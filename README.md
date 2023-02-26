@@ -58,4 +58,9 @@ A magnitude 7.8 earthquake struck Ecuador on April 16, 2016. People rallied in r
 ## Hypothesis
 Null hypothesis: Sales are affected by promotions, oil prices and holidays.
 
+## Conclusion 
+The analysis showed that sales are affected by items on promotion and oil prices. We can accept the null hypothesis that sales are affected by items on promotion and oil prices. 
+
+Kindly find attached the link to the part 1 of this project: https://medium.com/@qacheampong/store-sales-time-series-forecasting-exploratory-data-analysis-part-1-54f245b6edac
+
 
