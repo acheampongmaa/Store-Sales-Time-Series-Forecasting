@@ -1,5 +1,5 @@
 
-![image](./pic/sales.jpeg)
+![image](./image/sales.jpeg)
 # Store-Sales-Time-Series-Forecasting ✨
 
 
